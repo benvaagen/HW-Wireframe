@@ -1,4 +1,4 @@
-deployed at: https://benvaagen.github.io/HW-Wireframe/
+deployed at: https://benvaagen.github.io/HW-Wireframe/index.html
 
 ###Building a Wireframe
 
